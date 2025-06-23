@@ -2,6 +2,12 @@
 
 Este projeto é uma aplicação Go simples que imprime "Full Cycle Rocks!!" e foi otimizada para gerar uma imagem Docker de menos de 2MB.
 
+## Container público no Docker Hub
+Basta executar o comando:
+```bash
+docker run gabrielst8/golang-fullcycle
+```
+
 ## Arquivos
 
 - `main.go`: Aplicação Go que imprime a mensagem
